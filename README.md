@@ -9,3 +9,6 @@ Paso a paso
 4. Incluir mínimo 2 comentarios.
 5. Usar 3 entidades HTML.
 6. Incluir las etiquetas multimedia de <video>, <audio> e incluir un video de YouTube con <iframe>.
+
+
+EXTRA: incluir la etiqueta <svg>.
