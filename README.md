@@ -11,4 +11,4 @@ Paso a paso
 6. Incluir las etiquetas multimedia de <video>, <audio> e incluir un video de YouTube con <iframe>.
 
 
-EXTRA: incluir la etiqueta "<svg>".
+EXTRA: incluir la etiqueta svg.
