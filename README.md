@@ -8,7 +8,7 @@ Paso a paso
 3. Usar mínimo 6 etiquetas vistas en la clase de “Elementos Variados” e incluir 2 no vistas en clase.
 4. Incluir mínimo 2 comentarios.
 5. Usar 3 entidades HTML.
-6. Incluir las etiquetas multimedia de <video>, <audio> e incluir un video de YouTube con <iframe>.
+6. Incluir las etiquetas multimedia de video, audio e incluir un video de YouTube con <iframe>.
 
 
 EXTRA: incluir la etiqueta svg.
